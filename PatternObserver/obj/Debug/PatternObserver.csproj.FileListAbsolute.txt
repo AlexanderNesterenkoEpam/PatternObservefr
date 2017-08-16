@@ -1,0 +1,5 @@
+D:\CSharpProjects\PatternObserver\PatternObserver\bin\Debug\PatternObserver.exe.config
+D:\CSharpProjects\PatternObserver\PatternObserver\bin\Debug\PatternObserver.exe
+D:\CSharpProjects\PatternObserver\PatternObserver\bin\Debug\PatternObserver.pdb
+D:\CSharpProjects\PatternObserver\PatternObserver\obj\Debug\PatternObserver.exe
+D:\CSharpProjects\PatternObserver\PatternObserver\obj\Debug\PatternObserver.pdb
